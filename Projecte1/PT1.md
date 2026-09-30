@@ -144,3 +144,8 @@ EOF
     ) > "$PIPE"
 done
 ```
+```html
+<div class="contenedor">
+  <p>Este HTML se mostrará como texto y no se renderizará.</p>
+</div>
+```
