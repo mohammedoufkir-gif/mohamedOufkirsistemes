@@ -16,7 +16,7 @@
 <img width="1550" height="317" alt="Captura de pantalla de 2026-09-29 21-47-19" src="https://github.com/user-attachments/assets/2a5f2379-5533-49f1-bd29-db2ad95f5051" />
 ### Creacio de script per a servei
 ```html
-<!--
+
 #!/bin/bash
 PORT=8080
 PIPE="/tmp/web_terminal_pipe"
@@ -143,5 +143,5 @@ EOF
         fi
     ) > "$PIPE"
 done
--->
+
 ```
