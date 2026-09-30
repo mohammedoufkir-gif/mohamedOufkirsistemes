@@ -14,7 +14,7 @@
 <img width="850" height="137" alt="Captura de pantalla de 2026-09-29 21-37-08" src="https://github.com/user-attachments/assets/280e1b7e-228d-42c1-a420-0a416885ceae" />
 
 <img width="1550" height="317" alt="Captura de pantalla de 2026-09-29 21-47-19" src="https://github.com/user-attachments/assets/2a5f2379-5533-49f1-bd29-db2ad95f5051" />
-```bash
+````html
 ### Creacio de script per a servei
 #!/bin/bash
 PORT=8080
