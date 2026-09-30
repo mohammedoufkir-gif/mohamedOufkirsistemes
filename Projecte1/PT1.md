@@ -17,7 +17,7 @@
 ```
 ### Creacio de script per a servei
 #!/bin/bash
-
+```
 PORT=8080
 PIPE="/tmp/web_terminal_pipe"
 WORK_DIR_FILE="/tmp/web_terminal_pwd"
